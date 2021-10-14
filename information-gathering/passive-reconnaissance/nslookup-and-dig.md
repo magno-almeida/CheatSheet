@@ -4,8 +4,6 @@
 
 Find the IP address of a domain name using `nslookup:`
 
-``
-
 ```
 nslookup OPTIONS DOMAIN_NAME SERVER
 nslookup -type=A tryhackme.com 1.1.1.1
