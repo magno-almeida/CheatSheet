@@ -33,3 +33,13 @@ For more information on Whois status codes, please visit https://icann.org/epp
 1. WHOIS Server: whois.namecheap.com;
 2. Creation Date, last-update date and expiration date;
 3. Contact infromation, admin and tech contacts;
+
+#### Whois Web
+
+{% embed url="https://www.whatismyip.org/website-reviewer" %}
+Web site for Whois and lot of OSINT tools
+{% endembed %}
+
+{% embed url="https://www.iana.org/whois" %}
+Iana Whois
+{% endembed %}

@@ -2,8 +2,8 @@
 description: Information Gathering
 ---
 
-# OSINT
+# Information Gathering
 
-{% content-ref url="osint/passive-reconnaissance/" %}
-[passive-reconnaissance](osint/passive-reconnaissance/)
+{% content-ref url="information-gathering/passive-reconnaissance/" %}
+[passive-reconnaissance](information-gathering/passive-reconnaissance/)
 {% endcontent-ref %}

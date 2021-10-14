@@ -1,8 +1,15 @@
 # Table of contents
 
-* [OSINT](README.md)
-  * [Passive Reconnaissance](osint/passive-reconnaissance/README.md)
-    * [Whois](osint/passive-reconnaissance/whois.md)
+* [Information Gathering](README.md)
+  * [Passive Reconnaissance](information-gathering/passive-reconnaissance/README.md)
+    * [Whois](information-gathering/passive-reconnaissance/whois.md)
+    * [nslookup and dig](information-gathering/passive-reconnaissance/nslookup-and-dig.md)
+    * [Shodan](information-gathering/passive-reconnaissance/shodan.md)
+    * [Maltego](information-gathering/passive-reconnaissance/maltego.md)
+    * [Discovering Email Addressess](information-gathering/passive-reconnaissance/discovering-email-addressess.md)
+    * [Hunting Subdomains](information-gathering/passive-reconnaissance/hunting-subdomains.md)
+    * [Google Dorks](information-gathering/passive-reconnaissance/google-dorks.md)
+  * [Active Reconnaissance](information-gathering/active-reconnaissance.md)
 * [Enumeration](<README (1).md>)
   * [Nmap](enumeration/nmap.md)
 * [Exploitation](exploitation.md)
