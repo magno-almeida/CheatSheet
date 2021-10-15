@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Information Gathering](README.md)
+* [Ethical Hacker - CheatSheet](README.md)
+* [Information Gathering](<README (2).md>)
   * [Passive Reconnaissance](information-gathering/passive-reconnaissance/README.md)
     * [Whois](information-gathering/passive-reconnaissance/whois.md)
     * [nslookup and dig](information-gathering/passive-reconnaissance/nslookup-and-dig.md)

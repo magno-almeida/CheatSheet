@@ -1,9 +1,13 @@
 ---
-description: Information Gathering
+description: Cookbook/CheatSheet
 ---
 
-# Information Gathering
+# Ethical Hacker - CheatSheet
 
-{% content-ref url="information-gathering/passive-reconnaissance/" %}
-[passive-reconnaissance](information-gathering/passive-reconnaissance/)
-{% endcontent-ref %}
+This document is a collection of all my course notes and CTF
+
+* Desec Security
+* TCM Security
+* Hack The Box
+* Try Hack Me
+
