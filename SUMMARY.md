@@ -11,6 +11,7 @@
     * [Hunting Subdomains](information-gathering/passive-reconnaissance/hunting-subdomains.md)
     * [Google Dorks](information-gathering/passive-reconnaissance/google-dorks.md)
   * [Active Reconnaissance](information-gathering/active-reconnaissance/README.md)
+    * [Web Content](information-gathering/active-reconnaissance/web-content.md)
     * [Netcat](information-gathering/active-reconnaissance/netcat.md)
 * [Enumeration](<README (1).md>)
   * [Nmap](enumeration/nmap.md)
