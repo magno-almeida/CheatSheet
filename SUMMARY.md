@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Ethical Hacker - CheatSheet](README.md)
-* [Information Gathering](<README (2).md>)
+* [Information Gathering](information-gathering/README.md)
   * [Passive Reconnaissance](information-gathering/passive-reconnaissance/README.md)
     * [Whois](information-gathering/passive-reconnaissance/whois.md)
     * [nslookup and dig](information-gathering/passive-reconnaissance/nslookup-and-dig.md)
@@ -14,7 +14,8 @@
     * [Web Content](information-gathering/active-reconnaissance/web-content.md)
     * [Netcat](information-gathering/active-reconnaissance/netcat.md)
 * [Hash](hash.md)
-* [Enumeration](<README (1).md>)
+* [Enumeration](enumeration/README.md)
   * [Nmap](enumeration/nmap.md)
   * [Linux Enumeration](enumeration/linux-enumeration/README.md)
+    * [Automated](enumeration/linux-enumeration/automated.md)
     * [Manual](enumeration/linux-enumeration/manual.md)
